@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment1.params=
+comment1.target=ScoreBoard()
+comment2.params=
+comment2.target=void\ reinitialize()
+comment3.params=m\ c
+comment3.target=void\ update(Map,\ SpriteChicken)
+comment4.params=
+comment4.target=void\ addScores()
+comment5.params=
+comment5.target=int\ getHighScore()
+comment6.params=
+comment6.target=void\ checkHighScore()
+comment7.params=img
+comment7.target=java.awt.image.BufferedImage\ appear(java.awt.image.BufferedImage)
+numComments=8

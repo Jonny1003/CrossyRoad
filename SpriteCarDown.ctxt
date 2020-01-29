@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SpriteCarDown
+comment1.params=x\ y\ g\ index
+comment1.target=SpriteCarDown(int,\ int,\ LocationGrid,\ int)
+comment2.params=b
+comment2.target=boolean\ carDown(java.awt.image.BufferedImage)
+comment3.params=b
+comment3.target=boolean\ carUp(java.awt.image.BufferedImage)
+numComments=4

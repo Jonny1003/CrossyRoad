@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TreeRockStrip
+comment1.params=prevStrip\ index
+comment1.target=TreeRockStrip(Strip,\ int)
+comment2.params=
+comment2.target=TreeRockStrip()
+comment3.params=
+comment3.target=int\ randomObject()
+comment4.params=
+comment4.target=int[]\ getObjects()
+comment5.params=
+comment5.target=int\ getIndex()
+numComments=6

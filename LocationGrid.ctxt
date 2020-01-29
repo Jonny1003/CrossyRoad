@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LocationGrid
+comment1.params=
+comment1.target=LocationGrid()
+comment2.params=s
+comment2.target=void\ update(Sprite)
+comment3.params=r
+comment3.target=void\ update(Strip)
+comment4.params=v
+comment4.target=void\ update(Void)
+comment5.params=index\ array
+comment5.target=boolean\ checkCollision(int,\ int[][])
+comment6.params=index
+comment6.target=boolean\ checkCarCrash(int)
+comment7.params=index
+comment7.target=boolean\ checkCollision(int)
+comment8.params=
+comment8.target=int[][]\ getBackgroundLocations()
+comment9.params=
+comment9.target=int[][]\ getObjectLocations()
+numComments=10

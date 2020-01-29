@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SpriteAnimations
+comment1.params=file
+comment1.target=java.awt.image.BufferedImage\ loadSprite(java.lang.String)
+comment2.params=sheet\ xGrid\ yGrid
+comment2.target=java.awt.image.BufferedImage\ getSprite(java.awt.image.BufferedImage,\ int,\ int)
+comment3.params=file
+comment3.target=java.awt.image.BufferedImage[]\ createSprite(java.lang.String)
+numComments=4

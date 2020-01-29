@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Strip
+comment1.params=file
+comment1.target=java.awt.image.BufferedImage\ loadImage(java.lang.String)
+comment2.params=
+comment2.target=int[]\ getObjects()
+comment3.params=
+comment3.target=int\ getIndex()
+comment4.params=i
+comment4.target=void\ setIndex(int)
+comment5.params=m\ frame
+comment5.target=java.awt.image.BufferedImage\ addStrip(Map,\ java.awt.image.BufferedImage)
+comment6.params=
+comment6.target=int\ getRandomEmptySpace()
+numComments=7

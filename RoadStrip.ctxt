@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RoadStrip
+comment1.params=index\ g
+comment1.target=RoadStrip(int,\ LocationGrid)
+comment2.params=
+comment2.target=int\ getRandomEmptySpace()
+comment3.params=m\ b
+comment3.target=java.awt.image.BufferedImage\ addStrip(Map,\ java.awt.image.BufferedImage)
+numComments=4

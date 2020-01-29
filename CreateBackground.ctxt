@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CreateBackground
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=file
+comment2.target=java.awt.image.BufferedImage\ loadImage(java.lang.String)
+comment3.params=
+comment3.target=void\ createBackground()
+numComments=4

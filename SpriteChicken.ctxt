@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SpriteChicken
+comment1.params=x\ y\ g\ index
+comment1.target=SpriteChicken(int,\ int,\ LocationGrid,\ int)
+comment2.params=img
+comment2.target=java.awt.image.BufferedImage\ die(java.awt.image.BufferedImage)
+comment3.params=img
+comment3.target=java.awt.image.BufferedImage\ addPlayAgain(java.awt.image.BufferedImage)
+numComments=4
